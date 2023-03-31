@@ -1,6 +1,6 @@
 Name:		texlive-makelabels
 Version:	60255
-Release:	1
+Release:	2
 Summary:	Add a '\makelabels' feature to KOMA-Script letter classes and package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/makelabels
